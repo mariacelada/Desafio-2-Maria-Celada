@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(207, 207, 207);
+}
+header{
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 60px;
+    font-size: 25px;
+}
+nav a:hover {
+    text-decoration: underline;
+    }
+    .Welcome {
+        padding: 20px;
+        background-color: rgb(136, 170, 192);
+        text-align: center;
+       color: rgb(0, 0, 0); 
+       display: flex;
+       justify-content: center;         
+     } 
+     .card{
+        margin: 20px;
+        width: 300px;
+        border-radius: 20px;
+        overflow:hidden;
+        box-shadow: 0px 15px 20px;
+        font-family: "Playfair Display", serif;
+        background-color: aliceblue;
+    }
+    
+    .card img{
+        width: 100%;
+
+    }
+    .cards-content{
+        padding: 10px;
+    }         

@@ -26,6 +26,10 @@ nav a:hover {
        display: flex;
        justify-content: center;         
      } 
+     .tarjet{
+        display: flex;
+        justify-content: center;
+     }
      .card{
         margin: 20px;
         width: 300px;

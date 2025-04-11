@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(207, 207, 207);
+    background-color: rgb(230, 218, 218);
 }
 header{
     text-align: center;
@@ -46,4 +46,14 @@ nav a:hover {
     }
     .cards-content{
         padding: 10px;
-    }         
+    }   
+.destacado-card{
+    text-align: center;
+}
+footer{
+    text-decoration: overline;
+    text-align: center;
+}
+.Eslogan{
+    text-align: center;
+}
